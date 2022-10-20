@@ -51,8 +51,8 @@
 #include "crypto/crypto.h"
 #include "peripheral/tc/plib_tc0.h"
 #include "peripheral/rtc/plib_rtc.h"
-#include "system/time/sys_time.h"
 #include "peripheral/nvm/plib_nvm.h"
+#include "system/time/sys_time.h"
 #include "driver/spi/drv_spi.h"
 /*******************************************************************************
 * Copyright (C) 2022 Microchip Technology Inc. and its subsidiaries.
