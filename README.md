@@ -547,14 +547,6 @@ void APP_Tasks ( void )
 
 ```
 
-- In your MPLAB Harmony v3 based application go to "firmware\src\app_ble\app_ble.c" and do the following changes.
-
-	- Change the following Code in Line 206.
-	
-```
-uint8_t scanRspData[]={0x0F, 0x09, 0x57, 0x42, 0x5A, 0x34, 0x35, 0x31, 0x5F, 0x44, 0x49, 0x53, 0x50, 0x4C, 0x41, 0x59};
-```
-	
 - In your MPLAB Harmony v3 based application go to "firmware\src\app_ble\app_ble_handler.c" and do the following changes.
 	
 	- Include the following code in Header.
@@ -689,4 +681,8 @@ Follow the steps provided in the link to [Build and program the application](htt
 ![Alt Text](docs/Working_Demo.gif)
 
 
+### Reference
 
+- MPLAB® Harmony 3 Graphics Support Package.
+
+	- Refer the link for [Harmony 3 Graphics library](https://github.com/Microchip-MPLAB-Harmony/gfx). 
