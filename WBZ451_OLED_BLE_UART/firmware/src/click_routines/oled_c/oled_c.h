@@ -50,7 +50,7 @@
 #define BLE_TEXT_LINE1                    01u
 #define BLE_TEXT_LINE2                    02u
 #define BLE_TEXT_LINE_LENGTH_OFFSET       02u
-#define BLE_TEXT_STATUS_SIZE                 13u
+#define BLE_TEXT_STATUS_SIZE              13u
 
 typedef enum APP_OLEDC_T
 {
