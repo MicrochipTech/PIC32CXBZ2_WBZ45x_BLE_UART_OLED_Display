@@ -645,7 +645,7 @@ void APP_Tasks ( void )
 ![](docs/mbd1.PNG) ![](docs/mbd2.PNG) ![](docs/mbd3.PNG) ![](docs/mbd4.PNG) ![](docs/mbd5.PNG) ![](docs/mbd6.PNG) ![](docs/mbd7.PNG) ![](docs/mbd8.PNG)
 
 
-**Step 14** - The data printed onto the tera term is shown below.
+**Step 22** - The data printed onto the tera term is shown below.
 
 - Baud rate: 115200
 - Com port: COM USB serial port
