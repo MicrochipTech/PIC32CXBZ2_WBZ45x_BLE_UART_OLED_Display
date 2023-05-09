@@ -1,0 +1,58 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.ide.project",
+    "content": {
+        "metaDataVersion": "1.3.0",
+        "name": "com.microchip.mplabx.project.PIC32CXBZ2_WBZ45x_BLE_UART_OLED_Display",
+        "version": "1.0.1",
+        "displayName": "WBZ45x BLE UART WITH OLED DISPLAY",
+        "projectName": "PIC32CXBZ2_WBZ45x_BLE_UART_OLED_Display",
+        "shortDescription": "This application demonstrates the use of an OLED Display interfaced with WBZ451 Curiosity Board. The text send from Mobile App is shown on the OLED Display connected to WBZ451 Curiosity Board.",
+        "ide": {
+            "name": "MPLAB X",
+            "semverRange": ">=6.00"
+        },
+        "compiler": [
+            {
+                "name": "XC32",
+                "semverRange": "^4.10.0"
+            }
+        ],
+        "dfp": {
+            "name": "PIC32CX-BZ_DFP",
+            "semverRange": "^1.0.107"
+        },
+        "configurator": {
+            "name": "MCC",
+            "semverRange": ">=5.1.17"
+        },
+        "device": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.contentRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.device",
+                "name": " PIC32CX-BZ2",
+                "versionRange": "*"
+            }
+        },
+        "author": "Roshan Raj",
+        "peripherals": [
+            "SERCOM"
+        ],
+        "keywords": [
+             "IoT","BLE","MPLAB X","XC32","SERCOM","MCC","Wireless","Development Tool","Bluetooth","Display","OLED","SPI"
+        ],
+        "additionalData": {
+            "longDescription": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.fileRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "fileName": "./README.md",
+                    "mimeType": "text/markdown"
+                }
+            }
+        }
+    }
+}
