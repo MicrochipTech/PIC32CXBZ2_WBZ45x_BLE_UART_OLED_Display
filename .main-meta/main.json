@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mplabx.project.PIC32CXBZ2_WBZ45x_BLE_UART_OLED_Display",
-        "version": "1.0.1",
+        "version": "1.0.0",
         "displayName": "PIC32CXBZ2_WBZ45x BLE UART WITH OLED DISPLAY",
         "projectName": "PIC32CXBZ2_WBZ45x_BLE_UART_OLED_Display",
         "shortDescription": "IoT Made Easy!-This application demonstrates the use of an OLED Display interfaced with WBZ451 Curiosity Board. The text send from Mobile App is shown on the OLED Display connected to WBZ451 Curiosity Board.",
