@@ -1,4 +1,4 @@
-# WBZ45x BLE UART WITH OLED DISPLAY
+# PIC32CXBZ2_WBZ45x WBZ45x BLE UART WITH OLED DISPLAY
 
 <img src="docs/IoT-Made-Easy-Logo.png" width=100>
 
