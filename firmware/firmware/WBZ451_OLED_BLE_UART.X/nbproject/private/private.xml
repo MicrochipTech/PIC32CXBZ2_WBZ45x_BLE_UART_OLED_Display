@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Roshan_t/oled/src/app_user_edits.c</file>
+            <file>file:/D:/Roshan_t/oled/src/config/default/gfx/legato/generated/le_gen_harmony.c</file>
+            <file>file:/D:/Roshan_t/oled/src/click_routines/oled_c/oled_c.h</file>
+            <file>file:/D:/Roshan_t/oled/src/app_ble/app_ble_handler.c</file>
+            <file>file:/D:/Roshan_t/oled/src/config/default/gfx/legato/common/legato_common.h</file>
+            <file>file:/D:/Roshan_t/oled/src/app.h</file>
+            <file>file:/D:/Roshan_t/oled/src/app_ble/app_trsps_handler.c</file>
+            <file>file:/D:/Roshan_t/oled/src/config/default/gfx/interface/spi4/drv_gfx_disp_intf_spi4.c</file>
+            <file>file:/D:/Roshan_t/oled/src/config/default/peripheral/gpio/plib_gpio.h</file>
+            <file>file:/D:/Roshan_t/oled/src/config/default/peripheral/gpio/plib_gpio.c</file>
+            <file>file:/D:/Roshan_t/oled/src/click_routines/oled_c/oled_c.c</file>
+            <file>file:/D:/Roshan_t/oled/src/app.c</file>
+        </group>
+    </open-files>
+</project-private>

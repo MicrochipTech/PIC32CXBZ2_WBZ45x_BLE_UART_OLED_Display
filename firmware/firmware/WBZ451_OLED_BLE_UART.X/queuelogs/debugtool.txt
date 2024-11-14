@@ -1,0 +1,1037 @@
+2989 1731564584557 XXXX 1731564584557, Thread 2989: XXXX 1731564584557, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564584557 XXXX 1731564584557, Thread 2989: XXXX 1731564584557, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564584597 XXXX 1731564584597, Thread 2989: XXXX 1731564584597, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564584597 XXXX 1731564584597, Thread 2989: XXXX 1731564584597, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564584597 XXXX 1731564584597, Thread 2989: XXXX 1731564584597, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564584597 XXXX 1731564584597, Thread 2989: XXXX 1731564584597, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564584652 XXXX 1731564584652, Thread 2989: XXXX 1731564584652, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564584652 XXXX 1731564584652, Thread 2989: XXXX 1731564584652, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564584652 XXXX 1731564584652, Thread 2989: XXXX 1731564584652, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564584652 XXXX 1731564584652, Thread 2989: XXXX 1731564584652, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564584689 XXXX 1731564584689, Thread 2989: XXXX 1731564584689, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564584689 XXXX 1731564584689, Thread 2989: XXXX 1731564584689, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564584689 XXXX 1731564584689, Thread 2989: XXXX 1731564584689, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564584690 XXXX 1731564584690, Thread 2989: XXXX 1731564584690, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564584728 XXXX 1731564584728, Thread 2989: XXXX 1731564584728, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564584728 XXXX 1731564584728, Thread 2989: XXXX 1731564584728, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564584728 XXXX 1731564584728, Thread 2989: XXXX 1731564584728, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564584728 XXXX 1731564584728, Thread 2989: XXXX 1731564584728, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564584765 XXXX 1731564584765, Thread 2989: XXXX 1731564584765, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564584765 XXXX 1731564584765, Thread 2989: XXXX 1731564584765, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564584765 XXXX 1731564584765, Thread 2989: XXXX 1731564584765, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564584765 XXXX 1731564584765, Thread 2989: XXXX 1731564584765, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564584802 XXXX 1731564584802, Thread 2989: XXXX 1731564584802, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564584802 XXXX 1731564584802, Thread 2989: XXXX 1731564584802, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564584802 XXXX 1731564584802, Thread 2989: XXXX 1731564584802, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564584803 XXXX 1731564584803, Thread 2989: XXXX 1731564584802, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564584841 XXXX 1731564584841, Thread 2989: XXXX 1731564584841, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564584841 XXXX 1731564584841, Thread 2989: XXXX 1731564584841, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564584841 XXXX 1731564584841, Thread 2989: XXXX 1731564584841, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564584841 XXXX 1731564584841, Thread 2989: XXXX 1731564584841, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564584879 XXXX 1731564584879, Thread 2989: XXXX 1731564584879, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564584879 XXXX 1731564584879, Thread 2989: XXXX 1731564584879, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564584879 XXXX 1731564584879, Thread 2989: XXXX 1731564584879, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564584879 XXXX 1731564584879, Thread 2989: XXXX 1731564584879, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564584915 XXXX 1731564584915, Thread 2989: XXXX 1731564584915, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564584915 XXXX 1731564584915, Thread 2989: XXXX 1731564584915, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564584916 XXXX 1731564584916, Thread 2989: XXXX 1731564584916, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564584916 XXXX 1731564584916, Thread 2989: XXXX 1731564584916, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564584953 XXXX 1731564584953, Thread 2989: XXXX 1731564584953, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564584953 XXXX 1731564584953, Thread 2989: XXXX 1731564584953, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564584953 XXXX 1731564584953, Thread 2989: XXXX 1731564584953, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564584953 XXXX 1731564584953, Thread 2989: XXXX 1731564584953, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564584992 XXXX 1731564584992, Thread 2989: XXXX 1731564584992, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564584992 XXXX 1731564584992, Thread 2989: XXXX 1731564584992, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564584992 XXXX 1731564584992, Thread 2989: XXXX 1731564584992, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564584993 XXXX 1731564584992, Thread 2989: XXXX 1731564584992, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585195 XXXX 1731564585195, Thread 2989: XXXX 1731564585195, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585196 XXXX 1731564585196, Thread 2989: XXXX 1731564585196, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585197 XXXX 1731564585197, Thread 2989: XXXX 1731564585197, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585198 XXXX 1731564585198, Thread 2989: XXXX 1731564585198, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585267 XXXX 1731564585267, Thread 2989: XXXX 1731564585267, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585268 XXXX 1731564585267, Thread 2989: XXXX 1731564585267, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585268 XXXX 1731564585268, Thread 2989: XXXX 1731564585268, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585268 XXXX 1731564585268, Thread 2989: XXXX 1731564585268, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585327 XXXX 1731564585327, Thread 2989: XXXX 1731564585327, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585327 XXXX 1731564585327, Thread 2989: XXXX 1731564585327, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585328 XXXX 1731564585328, Thread 2989: XXXX 1731564585328, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585328 XXXX 1731564585328, Thread 2989: XXXX 1731564585328, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585374 XXXX 1731564585374, Thread 2989: XXXX 1731564585374, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585374 XXXX 1731564585374, Thread 2989: XXXX 1731564585374, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585374 XXXX 1731564585374, Thread 2989: XXXX 1731564585374, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585374 XXXX 1731564585374, Thread 2989: XXXX 1731564585374, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585411 XXXX 1731564585411, Thread 2989: XXXX 1731564585411, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585411 XXXX 1731564585411, Thread 2989: XXXX 1731564585411, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585411 XXXX 1731564585411, Thread 2989: XXXX 1731564585411, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585411 XXXX 1731564585411, Thread 2989: XXXX 1731564585411, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585447 XXXX 1731564585447, Thread 2989: XXXX 1731564585447, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585447 XXXX 1731564585447, Thread 2989: XXXX 1731564585447, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585447 XXXX 1731564585447, Thread 2989: XXXX 1731564585447, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585447 XXXX 1731564585447, Thread 2989: XXXX 1731564585447, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585490 XXXX 1731564585490, Thread 2989: XXXX 1731564585490, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585490 XXXX 1731564585490, Thread 2989: XXXX 1731564585490, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585490 XXXX 1731564585490, Thread 2989: XXXX 1731564585490, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585490 XXXX 1731564585490, Thread 2989: XXXX 1731564585490, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585527 XXXX 1731564585527, Thread 2989: XXXX 1731564585527, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585527 XXXX 1731564585527, Thread 2989: XXXX 1731564585527, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585528 XXXX 1731564585528, Thread 2989: XXXX 1731564585528, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585528 XXXX 1731564585528, Thread 2989: XXXX 1731564585528, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585564 XXXX 1731564585564, Thread 2989: XXXX 1731564585564, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585564 XXXX 1731564585564, Thread 2989: XXXX 1731564585564, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585564 XXXX 1731564585564, Thread 2989: XXXX 1731564585564, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585564 XXXX 1731564585564, Thread 2989: XXXX 1731564585564, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585599 XXXX 1731564585599, Thread 2989: XXXX 1731564585599, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585599 XXXX 1731564585599, Thread 2989: XXXX 1731564585599, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585600 XXXX 1731564585600, Thread 2989: XXXX 1731564585600, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585600 XXXX 1731564585600, Thread 2989: XXXX 1731564585600, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585637 XXXX 1731564585637, Thread 2989: XXXX 1731564585637, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585637 XXXX 1731564585637, Thread 2989: XXXX 1731564585637, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585637 XXXX 1731564585637, Thread 2989: XXXX 1731564585637, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585637 XXXX 1731564585637, Thread 2989: XXXX 1731564585637, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585677 XXXX 1731564585677, Thread 2989: XXXX 1731564585677, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585677 XXXX 1731564585677, Thread 2989: XXXX 1731564585677, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585677 XXXX 1731564585677, Thread 2989: XXXX 1731564585677, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585678 XXXX 1731564585678, Thread 2989: XXXX 1731564585678, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585718 XXXX 1731564585718, Thread 2989: XXXX 1731564585718, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585718 XXXX 1731564585718, Thread 2989: XXXX 1731564585718, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585718 XXXX 1731564585718, Thread 2989: XXXX 1731564585718, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585718 XXXX 1731564585718, Thread 2989: XXXX 1731564585718, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585757 XXXX 1731564585757, Thread 2989: XXXX 1731564585757, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585757 XXXX 1731564585757, Thread 2989: XXXX 1731564585757, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585757 XXXX 1731564585757, Thread 2989: XXXX 1731564585757, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585757 XXXX 1731564585757, Thread 2989: XXXX 1731564585757, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585796 XXXX 1731564585796, Thread 2989: XXXX 1731564585796, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585796 XXXX 1731564585796, Thread 2989: XXXX 1731564585796, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585796 XXXX 1731564585796, Thread 2989: XXXX 1731564585796, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585796 XXXX 1731564585796, Thread 2989: XXXX 1731564585796, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585834 XXXX 1731564585834, Thread 2989: XXXX 1731564585834, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585834 XXXX 1731564585834, Thread 2989: XXXX 1731564585834, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585834 XXXX 1731564585834, Thread 2989: XXXX 1731564585834, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585834 XXXX 1731564585834, Thread 2989: XXXX 1731564585834, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585871 XXXX 1731564585871, Thread 2989: XXXX 1731564585871, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585871 XXXX 1731564585871, Thread 2989: XXXX 1731564585871, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585871 XXXX 1731564585871, Thread 2989: XXXX 1731564585871, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585871 XXXX 1731564585871, Thread 2989: XXXX 1731564585871, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585924 XXXX 1731564585924, Thread 2989: XXXX 1731564585924, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585924 XXXX 1731564585924, Thread 2989: XXXX 1731564585924, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585924 XXXX 1731564585924, Thread 2989: XXXX 1731564585924, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585924 XXXX 1731564585924, Thread 2989: XXXX 1731564585924, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564585960 XXXX 1731564585960, Thread 2989: XXXX 1731564585960, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564585960 XXXX 1731564585960, Thread 2989: XXXX 1731564585960, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564585960 XXXX 1731564585960, Thread 2989: XXXX 1731564585960, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564585961 XXXX 1731564585961, Thread 2989: XXXX 1731564585961, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586001 XXXX 1731564586001, Thread 2989: XXXX 1731564586001, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586001 XXXX 1731564586001, Thread 2989: XXXX 1731564586001, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586001 XXXX 1731564586001, Thread 2989: XXXX 1731564586001, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586001 XXXX 1731564586001, Thread 2989: XXXX 1731564586001, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586037 XXXX 1731564586037, Thread 2989: XXXX 1731564586037, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586037 XXXX 1731564586037, Thread 2989: XXXX 1731564586037, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586037 XXXX 1731564586037, Thread 2989: XXXX 1731564586037, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586038 XXXX 1731564586038, Thread 2989: XXXX 1731564586038, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586075 XXXX 1731564586075, Thread 2989: XXXX 1731564586075, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586075 XXXX 1731564586075, Thread 2989: XXXX 1731564586075, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586075 XXXX 1731564586075, Thread 2989: XXXX 1731564586075, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586075 XXXX 1731564586075, Thread 2989: XXXX 1731564586075, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586112 XXXX 1731564586112, Thread 2989: XXXX 1731564586112, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586112 XXXX 1731564586112, Thread 2989: XXXX 1731564586112, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586112 XXXX 1731564586112, Thread 2989: XXXX 1731564586112, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586112 XXXX 1731564586112, Thread 2989: XXXX 1731564586112, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586153 XXXX 1731564586153, Thread 2989: XXXX 1731564586153, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586153 XXXX 1731564586153, Thread 2989: XXXX 1731564586153, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586153 XXXX 1731564586153, Thread 2989: XXXX 1731564586153, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586153 XXXX 1731564586153, Thread 2989: XXXX 1731564586153, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586191 XXXX 1731564586191, Thread 2989: XXXX 1731564586191, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586191 XXXX 1731564586191, Thread 2989: XXXX 1731564586191, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586191 XXXX 1731564586191, Thread 2989: XXXX 1731564586191, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586191 XXXX 1731564586191, Thread 2989: XXXX 1731564586191, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586228 XXXX 1731564586228, Thread 2989: XXXX 1731564586228, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586228 XXXX 1731564586228, Thread 2989: XXXX 1731564586228, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586228 XXXX 1731564586228, Thread 2989: XXXX 1731564586228, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586228 XXXX 1731564586228, Thread 2989: XXXX 1731564586228, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586265 XXXX 1731564586265, Thread 2989: XXXX 1731564586265, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586265 XXXX 1731564586265, Thread 2989: XXXX 1731564586265, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586265 XXXX 1731564586265, Thread 2989: XXXX 1731564586265, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586265 XXXX 1731564586265, Thread 2989: XXXX 1731564586265, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586303 XXXX 1731564586303, Thread 2989: XXXX 1731564586303, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586303 XXXX 1731564586303, Thread 2989: XXXX 1731564586303, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586303 XXXX 1731564586303, Thread 2989: XXXX 1731564586303, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586303 XXXX 1731564586303, Thread 2989: XXXX 1731564586303, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586340 XXXX 1731564586340, Thread 2989: XXXX 1731564586340, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586340 XXXX 1731564586340, Thread 2989: XXXX 1731564586340, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586340 XXXX 1731564586340, Thread 2989: XXXX 1731564586340, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586340 XXXX 1731564586340, Thread 2989: XXXX 1731564586340, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586384 XXXX 1731564586384, Thread 2989: XXXX 1731564586384, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586384 XXXX 1731564586384, Thread 2989: XXXX 1731564586384, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586384 XXXX 1731564586384, Thread 2989: XXXX 1731564586384, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586384 XXXX 1731564586384, Thread 2989: XXXX 1731564586384, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586438 XXXX 1731564586438, Thread 2989: XXXX 1731564586438, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586438 XXXX 1731564586438, Thread 2989: XXXX 1731564586438, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586438 XXXX 1731564586438, Thread 2989: XXXX 1731564586438, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586438 XXXX 1731564586438, Thread 2989: XXXX 1731564586438, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586475 XXXX 1731564586475, Thread 2989: XXXX 1731564586475, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586475 XXXX 1731564586475, Thread 2989: XXXX 1731564586475, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586475 XXXX 1731564586475, Thread 2989: XXXX 1731564586475, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586475 XXXX 1731564586475, Thread 2989: XXXX 1731564586475, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586514 XXXX 1731564586514, Thread 2989: XXXX 1731564586514, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586514 XXXX 1731564586514, Thread 2989: XXXX 1731564586514, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586515 XXXX 1731564586514, Thread 2989: XXXX 1731564586514, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586515 XXXX 1731564586515, Thread 2989: XXXX 1731564586515, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586555 XXXX 1731564586555, Thread 2989: XXXX 1731564586555, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586555 XXXX 1731564586555, Thread 2989: XXXX 1731564586555, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586556 XXXX 1731564586556, Thread 2989: XXXX 1731564586556, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586556 XXXX 1731564586556, Thread 2989: XXXX 1731564586556, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586603 XXXX 1731564586603, Thread 2989: XXXX 1731564586603, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586603 XXXX 1731564586603, Thread 2989: XXXX 1731564586603, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586603 XXXX 1731564586603, Thread 2989: XXXX 1731564586603, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586603 XXXX 1731564586603, Thread 2989: XXXX 1731564586603, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586640 XXXX 1731564586640, Thread 2989: XXXX 1731564586640, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586641 XXXX 1731564586641, Thread 2989: XXXX 1731564586641, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586641 XXXX 1731564586641, Thread 2989: XXXX 1731564586641, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586641 XXXX 1731564586641, Thread 2989: XXXX 1731564586641, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586679 XXXX 1731564586679, Thread 2989: XXXX 1731564586679, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586679 XXXX 1731564586679, Thread 2989: XXXX 1731564586679, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586679 XXXX 1731564586679, Thread 2989: XXXX 1731564586679, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586679 XXXX 1731564586679, Thread 2989: XXXX 1731564586679, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586723 XXXX 1731564586723, Thread 2989: XXXX 1731564586723, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586723 XXXX 1731564586723, Thread 2989: XXXX 1731564586723, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586723 XXXX 1731564586723, Thread 2989: XXXX 1731564586723, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586723 XXXX 1731564586723, Thread 2989: XXXX 1731564586723, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586763 XXXX 1731564586763, Thread 2989: XXXX 1731564586763, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586763 XXXX 1731564586763, Thread 2989: XXXX 1731564586763, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586763 XXXX 1731564586763, Thread 2989: XXXX 1731564586763, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586763 XXXX 1731564586763, Thread 2989: XXXX 1731564586763, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586800 XXXX 1731564586800, Thread 2989: XXXX 1731564586800, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586800 XXXX 1731564586800, Thread 2989: XXXX 1731564586800, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586800 XXXX 1731564586800, Thread 2989: XXXX 1731564586800, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586800 XXXX 1731564586800, Thread 2989: XXXX 1731564586800, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586851 XXXX 1731564586851, Thread 2989: XXXX 1731564586851, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586851 XXXX 1731564586851, Thread 2989: XXXX 1731564586851, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586851 XXXX 1731564586851, Thread 2989: XXXX 1731564586851, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586851 XXXX 1731564586851, Thread 2989: XXXX 1731564586851, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586900 XXXX 1731564586900, Thread 2989: XXXX 1731564586900, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586900 XXXX 1731564586900, Thread 2989: XXXX 1731564586900, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586900 XXXX 1731564586900, Thread 2989: XXXX 1731564586900, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586900 XXXX 1731564586900, Thread 2989: XXXX 1731564586900, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586939 XXXX 1731564586939, Thread 2989: XXXX 1731564586939, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586939 XXXX 1731564586939, Thread 2989: XXXX 1731564586939, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586939 XXXX 1731564586939, Thread 2989: XXXX 1731564586939, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586939 XXXX 1731564586939, Thread 2989: XXXX 1731564586939, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564586985 XXXX 1731564586985, Thread 2989: XXXX 1731564586985, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564586985 XXXX 1731564586985, Thread 2989: XXXX 1731564586985, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564586985 XXXX 1731564586985, Thread 2989: XXXX 1731564586985, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564586985 XXXX 1731564586985, Thread 2989: XXXX 1731564586985, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587021 XXXX 1731564587021, Thread 2989: XXXX 1731564587021, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587021 XXXX 1731564587021, Thread 2989: XXXX 1731564587021, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587021 XXXX 1731564587021, Thread 2989: XXXX 1731564587021, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587021 XXXX 1731564587021, Thread 2989: XXXX 1731564587021, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587057 XXXX 1731564587057, Thread 2989: XXXX 1731564587057, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587057 XXXX 1731564587057, Thread 2989: XXXX 1731564587057, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587058 XXXX 1731564587058, Thread 2989: XXXX 1731564587058, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587058 XXXX 1731564587058, Thread 2989: XXXX 1731564587058, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587101 XXXX 1731564587101, Thread 2989: XXXX 1731564587101, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587101 XXXX 1731564587101, Thread 2989: XXXX 1731564587101, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587101 XXXX 1731564587101, Thread 2989: XXXX 1731564587101, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587101 XXXX 1731564587101, Thread 2989: XXXX 1731564587101, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587138 XXXX 1731564587138, Thread 2989: XXXX 1731564587138, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587138 XXXX 1731564587138, Thread 2989: XXXX 1731564587138, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587138 XXXX 1731564587138, Thread 2989: XXXX 1731564587138, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587139 XXXX 1731564587138, Thread 2989: XXXX 1731564587138, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587174 XXXX 1731564587174, Thread 2989: XXXX 1731564587174, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587174 XXXX 1731564587174, Thread 2989: XXXX 1731564587174, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587174 XXXX 1731564587174, Thread 2989: XXXX 1731564587174, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587174 XXXX 1731564587174, Thread 2989: XXXX 1731564587174, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587211 XXXX 1731564587211, Thread 2989: XXXX 1731564587211, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587211 XXXX 1731564587211, Thread 2989: XXXX 1731564587211, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587212 XXXX 1731564587212, Thread 2989: XXXX 1731564587212, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587212 XXXX 1731564587212, Thread 2989: XXXX 1731564587212, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587250 XXXX 1731564587250, Thread 2989: XXXX 1731564587250, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587250 XXXX 1731564587250, Thread 2989: XXXX 1731564587250, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587250 XXXX 1731564587250, Thread 2989: XXXX 1731564587250, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587250 XXXX 1731564587250, Thread 2989: XXXX 1731564587250, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587287 XXXX 1731564587287, Thread 2989: XXXX 1731564587287, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587287 XXXX 1731564587287, Thread 2989: XXXX 1731564587287, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587287 XXXX 1731564587287, Thread 2989: XXXX 1731564587287, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587287 XXXX 1731564587287, Thread 2989: XXXX 1731564587287, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587324 XXXX 1731564587324, Thread 2989: XXXX 1731564587324, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587324 XXXX 1731564587324, Thread 2989: XXXX 1731564587324, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587324 XXXX 1731564587324, Thread 2989: XXXX 1731564587324, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587324 XXXX 1731564587324, Thread 2989: XXXX 1731564587324, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587361 XXXX 1731564587361, Thread 2989: XXXX 1731564587361, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587361 XXXX 1731564587361, Thread 2989: XXXX 1731564587361, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587361 XXXX 1731564587361, Thread 2989: XXXX 1731564587361, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587362 XXXX 1731564587362, Thread 2989: XXXX 1731564587362, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587399 XXXX 1731564587399, Thread 2989: XXXX 1731564587399, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587399 XXXX 1731564587399, Thread 2989: XXXX 1731564587399, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587399 XXXX 1731564587399, Thread 2989: XXXX 1731564587399, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587399 XXXX 1731564587399, Thread 2989: XXXX 1731564587399, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587436 XXXX 1731564587436, Thread 2989: XXXX 1731564587436, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587436 XXXX 1731564587436, Thread 2989: XXXX 1731564587436, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587436 XXXX 1731564587436, Thread 2989: XXXX 1731564587436, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587436 XXXX 1731564587436, Thread 2989: XXXX 1731564587436, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587472 XXXX 1731564587472, Thread 2989: XXXX 1731564587472, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587472 XXXX 1731564587472, Thread 2989: XXXX 1731564587472, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587472 XXXX 1731564587472, Thread 2989: XXXX 1731564587472, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587472 XXXX 1731564587472, Thread 2989: XXXX 1731564587472, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587508 XXXX 1731564587508, Thread 2989: XXXX 1731564587508, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587508 XXXX 1731564587508, Thread 2989: XXXX 1731564587508, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587509 XXXX 1731564587509, Thread 2989: XXXX 1731564587509, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587509 XXXX 1731564587509, Thread 2989: XXXX 1731564587509, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587547 XXXX 1731564587547, Thread 2989: XXXX 1731564587547, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587547 XXXX 1731564587547, Thread 2989: XXXX 1731564587547, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587547 XXXX 1731564587547, Thread 2989: XXXX 1731564587547, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587547 XXXX 1731564587547, Thread 2989: XXXX 1731564587547, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587585 XXXX 1731564587585, Thread 2989: XXXX 1731564587585, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587585 XXXX 1731564587585, Thread 2989: XXXX 1731564587585, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587585 XXXX 1731564587585, Thread 2989: XXXX 1731564587585, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587585 XXXX 1731564587585, Thread 2989: XXXX 1731564587585, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587624 XXXX 1731564587624, Thread 2989: XXXX 1731564587624, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587624 XXXX 1731564587624, Thread 2989: XXXX 1731564587624, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587624 XXXX 1731564587624, Thread 2989: XXXX 1731564587624, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587626 XXXX 1731564587626, Thread 2989: XXXX 1731564587626, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587664 XXXX 1731564587664, Thread 2989: XXXX 1731564587664, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587664 XXXX 1731564587664, Thread 2989: XXXX 1731564587664, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587664 XXXX 1731564587664, Thread 2989: XXXX 1731564587664, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587664 XXXX 1731564587664, Thread 2989: XXXX 1731564587664, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587710 XXXX 1731564587710, Thread 2989: XXXX 1731564587710, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587710 XXXX 1731564587710, Thread 2989: XXXX 1731564587710, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587710 XXXX 1731564587710, Thread 2989: XXXX 1731564587710, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587710 XXXX 1731564587710, Thread 2989: XXXX 1731564587710, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587746 XXXX 1731564587746, Thread 2989: XXXX 1731564587746, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587746 XXXX 1731564587746, Thread 2989: XXXX 1731564587746, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587747 XXXX 1731564587747, Thread 2989: XXXX 1731564587747, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564587747 XXXX 1731564587747, Thread 2989: XXXX 1731564587747, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564587792 XXXX 1731564587792, Thread 2989: XXXX 1731564587792, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564587792 XXXX 1731564587792, Thread 2989: XXXX 1731564587792, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564587792 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Post:calculateMemoryHashes
+2989 1731564587792 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return Value
+2989 1731564587792 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 com.microchip.mplab.libs.RI4ArmToolsController.hashes.Crc32HashAlgorithm@5331584f
+2989 1731564587792 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return End
+
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Pre:SendOperation
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 OperationInfo: Values:
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 OperationInfo: Type = erase, Mask = 00001000, Erase = false, Production Mode = false
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 1004000, End = 1006fff, Buffer Length = 0, Type = Pgm, Mask = 00000000
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 1009000, End = 100afff, Buffer Length = 0, Type = Pgm, Mask = 00000000
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 100c000, End = 100cfff, Buffer Length = 0, Type = Pgm, Mask = 00000000
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 100e000, End = 1010fff, Buffer Length = 0, Type = Pgm, Mask = 00000000
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 1013000, End = 1015fff, Buffer Length = 0, Type = Pgm, Mask = 00000000
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 1018000, End = 1019fff, Buffer Length = 0, Type = Pgm, Mask = 00000000
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 101c000, End = 102bfff, Buffer Length = 0, Type = Pgm, Mask = 00000000
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 102d000, End = 1068fff, Buffer Length = 0, Type = Pgm, Mask = 00000000
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 45e80, End = 45fbf, Buffer Length = 0, Type = Cfg, Mask = 00000000
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 0, End = fff, Buffer Length = 0, Type = BootFlash, Mask = 00000000
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 20010000, End = 20010fff, Buffer Length = 0, Type = FileRegs, Mask = 00000000
+2989 1731564587801 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload End
+2989 1731564587801 XXXX 1731564587801, Thread 2989: XXXX 1731564587801, Entering Thread 2989: Commands::runScriptBasic, script name = EraseProgmemRange, timeOut = 30000 ms  
+2989 1731564587886 XXXX 1731564587886, Thread 2989: XXXX 1731564587886, Exiting Thread 2989: Commands::runScriptBasic  
+2989 1731564587886 XXXX 1731564587886, Thread 2989: XXXX 1731564587886, Entering Thread 2989: Commands::runScriptBasic, script name = EraseProgmemRange, timeOut = 30000 ms  
+2989 1731564587943 XXXX 1731564587943, Thread 2989: XXXX 1731564587943, Exiting Thread 2989: Commands::runScriptBasic  
+2989 1731564587943 XXXX 1731564587943, Thread 2989: XXXX 1731564587943, Entering Thread 2989: Commands::runScriptBasic, script name = EraseProgmemRange, timeOut = 30000 ms  
+2989 1731564587972 XXXX 1731564587972, Thread 2989: XXXX 1731564587972, Exiting Thread 2989: Commands::runScriptBasic  
+2989 1731564587972 XXXX 1731564587972, Thread 2989: XXXX 1731564587972, Entering Thread 2989: Commands::runScriptBasic, script name = EraseProgmemRange, timeOut = 30000 ms  
+2989 1731564588057 XXXX 1731564588057, Thread 2989: XXXX 1731564588057, Exiting Thread 2989: Commands::runScriptBasic  
+2989 1731564588057 XXXX 1731564588057, Thread 2989: XXXX 1731564588057, Entering Thread 2989: Commands::runScriptBasic, script name = EraseProgmemRange, timeOut = 30000 ms  
+2989 1731564588142 XXXX 1731564588142, Thread 2989: XXXX 1731564588142, Exiting Thread 2989: Commands::runScriptBasic  
+2989 1731564588142 XXXX 1731564588142, Thread 2989: XXXX 1731564588142, Entering Thread 2989: Commands::runScriptBasic, script name = EraseProgmemRange, timeOut = 30000 ms  
+2989 1731564588199 XXXX 1731564588199, Thread 2989: XXXX 1731564588199, Exiting Thread 2989: Commands::runScriptBasic  
+2989 1731564588199 XXXX 1731564588199, Thread 2989: XXXX 1731564588199, Entering Thread 2989: Commands::runScriptBasic, script name = EraseProgmemRange, timeOut = 30000 ms  
+2989 1731564588646 XXXX 1731564588646, Thread 2989: XXXX 1731564588646, Exiting Thread 2989: Commands::runScriptBasic  
+2989 1731564588646 XXXX 1731564588646, Thread 2989: XXXX 1731564588646, Entering Thread 2989: Commands::runScriptBasic, script name = EraseProgmemRange, timeOut = 30000 ms  
+2989 1731564592390 XXXX 1731564592390, Thread 2989: XXXX 1731564592390, Exiting Thread 2989: Commands::runScriptBasic  
+2989 1731564592390 XXXX 1731564592390, Thread 2989: XXXX 1731564592390, Entering Thread 2989: Commands::runScriptBasic, script name = EraseProgmemRange, timeOut = 30000 ms  
+2989 1731564592435 XXXX 1731564592435, Thread 2989: XXXX 1731564592435, Exiting Thread 2989: Commands::runScriptBasic  
+2989 1731564592435 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Post:SendOperation
+2989 1731564592435 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return Value
+2989 1731564592435 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 None
+2989 1731564592435 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return End
+
+2989 1731564592476 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Pre:SendOperation
+2989 1731564592476 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload
+2989 1731564592476 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 OperationInfo: Values:
+2989 1731564592476 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 OperationInfo: Type = write, Mask = 00000000, Erase = false, Production Mode = false
+2989 1731564592476 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 1004000, End = 1006fff, Buffer Length = 12288, Type = Pgm, Mask = 00000000
+2989 1731564592478 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 1009000, End = 100afff, Buffer Length = 8192, Type = Pgm, Mask = 00000000
+2989 1731564592478 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 100c000, End = 100cfff, Buffer Length = 4096, Type = Pgm, Mask = 00000000
+2989 1731564592478 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 100e000, End = 1010fff, Buffer Length = 12288, Type = Pgm, Mask = 00000000
+2989 1731564592478 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 1013000, End = 1015fff, Buffer Length = 12288, Type = Pgm, Mask = 00000000
+2989 1731564592478 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 1018000, End = 1019fff, Buffer Length = 8192, Type = Pgm, Mask = 00000000
+2989 1731564592479 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 101c000, End = 102bfff, Buffer Length = 65536, Type = Pgm, Mask = 00000000
+2989 1731564592479 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 102d000, End = 1068fff, Buffer Length = 245760, Type = Pgm, Mask = 00000000
+2989 1731564592479 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 45e80, End = 45fbf, Buffer Length = 320, Type = Cfg, Mask = 00000000
+2989 1731564592479 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 0, End = fff, Buffer Length = 4096, Type = BootFlash, Mask = 00000000
+2989 1731564592479 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 20010000, End = 20010fff, Buffer Length = 4096, Type = FileRegs, Mask = 00000000
+2989 1731564592479 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload End
+2989 1731564592479 XXXX 1731564592479, Thread 2989: XXXX 1731564592479, Entering Thread 2989: Commands::runScriptWithDownload, script name = WriteProgmem  
+2989 1731564592777 XXXX 1731564592777, Thread 2989: XXXX 1731564592777, Exiting Thread 2989: Commands::runScriptWithDownload(WriteProgmem)  
+2989 1731564592777 XXXX 1731564592777, Thread 2989: XXXX 1731564592777, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564592777 XXXX 1731564592777, Thread 2989: XXXX 1731564592777, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x3000 bytes long  
+2989 1731564595765 XXXX 1731564595765, Thread 2989: XXXX 1731564595765, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564595765 XXXX 1731564595765, Thread 2989: XXXX 1731564595765, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564595765 XXXX 1731564595765, Thread 2989: XXXX 1731564595765, Entering Thread 2989: Commands::runScriptWithDownload, script name = WriteProgmem  
+2989 1731564595897 XXXX 1731564595897, Thread 2989: XXXX 1731564595897, Exiting Thread 2989: Commands::runScriptWithDownload(WriteProgmem)  
+2989 1731564595898 XXXX 1731564595898, Thread 2989: XXXX 1731564595898, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564595898 XXXX 1731564595898, Thread 2989: XXXX 1731564595898, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x2000 bytes long  
+2989 1731564595982 XXXX 1731564595981, Thread 2989: XXXX 1731564595975, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564595982 XXXX 1731564595982, Thread 2989: XXXX 1731564595982, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564595982 XXXX 1731564595982, Thread 2989: XXXX 1731564595982, Entering Thread 2989: Commands::runScriptWithDownload, script name = WriteProgmem  
+2989 1731564596054 XXXX 1731564596054, Thread 2989: XXXX 1731564596054, Exiting Thread 2989: Commands::runScriptWithDownload(WriteProgmem)  
+2989 1731564596054 XXXX 1731564596054, Thread 2989: XXXX 1731564596054, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564596055 XXXX 1731564596055, Thread 2989: XXXX 1731564596055, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564596094 XXXX 1731564596094, Thread 2989: XXXX 1731564596094, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564596094 XXXX 1731564596094, Thread 2989: XXXX 1731564596094, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564596094 XXXX 1731564596094, Thread 2989: XXXX 1731564596094, Entering Thread 2989: Commands::runScriptWithDownload, script name = WriteProgmem  
+2989 1731564596268 XXXX 1731564596268, Thread 2989: XXXX 1731564596268, Exiting Thread 2989: Commands::runScriptWithDownload(WriteProgmem)  
+2989 1731564596268 XXXX 1731564596268, Thread 2989: XXXX 1731564596268, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564596268 XXXX 1731564596268, Thread 2989: XXXX 1731564596268, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x3000 bytes long  
+2989 1731564596378 XXXX 1731564596378, Thread 2989: XXXX 1731564596378, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564596378 XXXX 1731564596378, Thread 2989: XXXX 1731564596378, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564596379 XXXX 1731564596379, Thread 2989: XXXX 1731564596378, Entering Thread 2989: Commands::runScriptWithDownload, script name = WriteProgmem  
+2989 1731564596551 XXXX 1731564596551, Thread 2989: XXXX 1731564596551, Exiting Thread 2989: Commands::runScriptWithDownload(WriteProgmem)  
+2989 1731564596551 XXXX 1731564596551, Thread 2989: XXXX 1731564596551, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564596551 XXXX 1731564596551, Thread 2989: XXXX 1731564596551, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x3000 bytes long  
+2989 1731564596658 XXXX 1731564596658, Thread 2989: XXXX 1731564596658, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564596658 XXXX 1731564596658, Thread 2989: XXXX 1731564596658, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564596658 XXXX 1731564596658, Thread 2989: XXXX 1731564596658, Entering Thread 2989: Commands::runScriptWithDownload, script name = WriteProgmem  
+2989 1731564596779 XXXX 1731564596779, Thread 2989: XXXX 1731564596779, Exiting Thread 2989: Commands::runScriptWithDownload(WriteProgmem)  
+2989 1731564596780 XXXX 1731564596780, Thread 2989: XXXX 1731564596780, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564596780 XXXX 1731564596780, Thread 2989: XXXX 1731564596780, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x2000 bytes long  
+2989 1731564596909 XXXX 1731564596909, Thread 2989: XXXX 1731564596909, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564596909 XXXX 1731564596909, Thread 2989: XXXX 1731564596909, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564596910 XXXX 1731564596910, Thread 2989: XXXX 1731564596910, Entering Thread 2989: Commands::runScriptWithDownload, script name = WriteProgmem  
+2989 1731564597865 XXXX 1731564597865, Thread 2989: XXXX 1731564597865, Exiting Thread 2989: Commands::runScriptWithDownload(WriteProgmem)  
+2989 1731564597865 XXXX 1731564597865, Thread 2989: XXXX 1731564597865, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564597865 XXXX 1731564597865, Thread 2989: XXXX 1731564597865, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x10000 bytes long  
+2989 1731564598427 XXXX 1731564598427, Thread 2989: XXXX 1731564598427, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564598427 XXXX 1731564598427, Thread 2989: XXXX 1731564598427, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564598427 XXXX 1731564598427, Thread 2989: XXXX 1731564598427, Entering Thread 2989: Commands::runScriptWithDownload, script name = WriteProgmem  
+2989 1731564601871 XXXX 1731564601871, Thread 2989: XXXX 1731564601871, Exiting Thread 2989: Commands::runScriptWithDownload(WriteProgmem)  
+2989 1731564601872 XXXX 1731564601872, Thread 2989: XXXX 1731564601872, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564601874 XXXX 1731564601874, Thread 2989: XXXX 1731564601874, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x3c000 bytes long  
+2989 1731564603936 XXXX 1731564603936, Thread 2989: XXXX 1731564603936, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564603936 XXXX 1731564603936, Thread 2989: XXXX 1731564603936, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564603938 XXXX 1731564603938, Thread 2989: XXXX 1731564603938, Entering Thread 2989: Commands::runScriptBasic, script name = EraseConfigmem, timeOut = -1 ms  
+2989 1731564603946 XXXX 1731564603946, Thread 2989: XXXX 1731564603946, Exiting Thread 2989: Commands::runScriptBasic  
+2989 1731564603946 XXXX 1731564603946, Thread 2989: XXXX 1731564603946, Entering Thread 2989: Commands::runScriptWithDownload, script name = WriteConfigmem  
+2989 1731564603965 XXXX 1731564603965, Thread 2989: XXXX 1731564603965, Exiting Thread 2989: Commands::runScriptWithDownload(WriteConfigmem)  
+2989 1731564603965 XXXX 1731564603965, Thread 2989: XXXX 1731564603965, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadConfigmem  
+2989 1731564603965 XXXX 1731564603965, Thread 2989: XXXX 1731564603965, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x140 bytes long  
+2989 1731564603970 XXXX 1731564603970, Thread 2989: XXXX 1731564603970, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564603970 XXXX 1731564603970, Thread 2989: XXXX 1731564603970, Exiting Thread 2989: Commands::runScriptWithUpload  
+2989 1731564603971 XXXX 1731564603971, Thread 2989: XXXX 1731564603971, Entering Thread 2989: Commands::runScriptWithDownload, script name = WriteBootMem  
+2989 1731564604029 XXXX 1731564604029, Thread 2989: XXXX 1731564604029, Exiting Thread 2989: Commands::runScriptWithDownload(WriteBootMem)  
+2989 1731564604029 XXXX 1731564604029, Thread 2989: XXXX 1731564604029, Entering Thread 2989: Commands::runScriptWithUpload, script name = ReadProgmem  
+2989 1731564604029 XXXX 1731564604029, Thread 2989: XXXX 1731564604029, Entering Thread 2989: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+2989 1731564604067 XXXX 1731564604067, Thread 2989: XXXX 1731564604067, Exiting Thread 2989: ToolCommUsb::readTransfer,  cr.status = 0x0  
+2989 1731564604067 XXXX 1731564604067, Thread 2989: XXXX 1731564604067, Exiting Thread 2989: Commands::runScriptWithUpload  
+
+2989 1731564604075 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Pre:endOfOperations
+2989 1731564604075 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload
+2989 1731564604075 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 null
+2989 1731564604075 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload End
+2989 1731564604075 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Post:endOfOperations
+2989 1731564604075 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return Value
+2989 1731564604075 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 None
+2989 1731564604075 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return End
+2935 1731564605079 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool is null
+
+2935 1731564605079 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:GetFirmwareInfo
+2935 1731564605079 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+2935 1731564605079 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 null
+2935 1731564605079 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+2935 1731564605086 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:GetFirmwareInfo
+2935 1731564605086 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+2935 1731564605086 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 FirmwareInfo: Values:
+2935 1731564605087 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 FirmwareInfo: boot = false, bootVer = 01.01.41, apVer = 00.07.10, fpgaVer = ff.ff.ff, scriptVer = 00.06.71, macAddress = 0505183765683815049485050484852, devID = a1020e01, devID1 = 1, devSN0 = ffffffff, devSN1 = ffffffff, serialNumber = RYN243203017, appCommitID = null, scriptCommitID = 74cdf38a4d, PCB_ID = 80000000
+2935 1731564605087 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+
+2935 1731564605087 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:SetPowerInfo
+2935 1731564605087 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+2935 1731564605087 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 PowerInfo: Values:
+2935 1731564605087 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 PowerInfo: shotDownSystem = false, isToolPower = false, voltage = 3.300000, useVppFirst = false, useLowVoltageProgramming = true, useMaintainActivePower = false
+2935 1731564605087 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+2935 1731564605087 XXXX 1731564605087, Thread 2935: XXXX 1731564605087, Entering Thread 2935: Commands::runScriptBasic with script contents. contents[0] = 0x39, ...  
+2935 1731564605088 XXXX 1731564605088, Thread 2935: XXXX 1731564605088, Exiting Thread 2935: Commands::runScriptBasic  
+2935 1731564605088 XXXX 1731564605088, Thread 2935: XXXX 1731564605088, Entering Thread 2935: Commands::runScriptBasic with script contents. contents[0] = 0x46, ...  
+2935 1731564605089 XXXX 1731564605089, Thread 2935: XXXX 1731564605089, Exiting Thread 2935: Commands::runScriptBasic  
+2935 1731564605089 XXXX 1731564605089, Thread 2935: XXXX 1731564605089, Entering Thread 2935: Commands::runScriptBasic with script contents. contents[0] = 0x44, ...  
+2935 1731564605090 XXXX 1731564605090, Thread 2935: XXXX 1731564605090, Exiting Thread 2935: Commands::runScriptBasic  
+2935 1731564605090 XXXX 1731564605090, Thread 2935: XXXX 1731564605090, Entering Thread 2935: Commands::runScriptBasic with script contents. contents[0] = 0xef, ...  
+2935 1731564605091 XXXX 1731564605091, Thread 2935: XXXX 1731564605091, Exiting Thread 2935: Commands::runScriptBasic  
+2935 1731564605091 XXXX 1731564605091, Thread 2935: XXXX 1731564605091, Entering Thread 2935: Commands::runScriptBasic with script contents. contents[0] = 0x40, ...  
+2935 1731564605092 XXXX 1731564605092, Thread 2935: XXXX 1731564605092, Exiting Thread 2935: Commands::runScriptBasic  
+2935 1731564605092 XXXX 1731564605092, Thread 2935: XXXX 1731564605092, Entering Thread 2935: Commands::runScriptBasic with script contents. contents[0] = 0x47, ...  
+2935 1731564605093 XXXX 1731564605093, Thread 2935: XXXX 1731564605093, Exiting Thread 2935: Commands::runScriptBasic  
+2935 1731564605093 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:SetPowerInfo
+2935 1731564605093 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+2935 1731564605093 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 none
+2935 1731564605093 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+2935 1731564605093 GEN4_CONNECT_DIAGNOSTICS:Removing plug and play observer com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@1689a6bf
+2935 1731564605093 GEN4_CONNECT_DIAGNOSTICS:Begin PlugNPlayObservers list dump:
+2935 1731564605093 GEN4_CONNECT_DIAGNOSTICS:End PlugNPlayObservers list dump:
+2935 1731564605143 GEN4_CONNECT_DIAGNOSTICS:Calling RIDbgToolCom.Disconnect
+2935 1731564605143 GEN4_CONNECT_DIAGNOSTICS:Calling MPLABCommTool.Detach to remove tool from plug and play list
+2935 1731564605143 GEN4_CONNECT_DIAGNOSTICS:Calling RIDbgToolCom.DisconnectFromMPlabComm
+2935 1731564605143 GEN4_CONNECT_DIAGNOSTICS:Calling MPLABCommTool.Disconnect
+3214 1731565246152 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool is NOT null
+3214 1731565246152 GEN4_CONNECT_DIAGNOSTICS:AttachedToolPID = 810b, AttachedToolVID = 4d8
+3214 1731565246152 GEN4_CONNECT_DIAGNOSTICS:transport type = USB
+3214 1731565246152 GEN4_CONNECT_DIAGNOSTICS:AttachedToolPID = 810b, AttachedToolVID = 4d8
+3214 1731565246158 com.microchip.mplab.mdbcore.RealICETool.RIDbgToolCom
+3214 1731565246158 GEN4_CONNECT_DIAGNOSTICS:Before MPLABCommTool.Connect()
+3214 1731565246159 GEN4_CONNECT_DIAGNOSTICS:After MPLABCommTool.Connect()
+3214 1731565246159 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool.Connect() returned MPLABCOMM_NO_ERROR
+3214 1731565246159 GEN4_CONNECT_DIAGNOSTICS:Attaching to MPLABCommTool plugnplay
+3214 1731565246159 GEN4_CONNECT_DIAGNOSTICS:Adding new plug and play observer com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@7d75e774
+3214 1731565246159 GEN4_CONNECT_DIAGNOSTICS:Begin PlugNPlayObservers list dump:
+3214 1731565246159 GEN4_CONNECT_DIAGNOSTICS:com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@7d75e774
+3214 1731565246159 GEN4_CONNECT_DIAGNOSTICS:End PlugNPlayObservers list dump:
+3214 1731565246159 GEN4_CONNECT_DIAGNOSTICS:Registering for alternate PNP notifications. CommPnPCriteria.cPIDList = [810A, 8109, 2184], CommPnPCriteria.cSerialNumber = ryn243203017
+
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:init
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: Values:
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: pcAddress = 7fffffffffffffff, Vpp = 3.30, useRowEraseIfVoltageIsLow = false, voltageBelowWhichUseRowErase = 0.00, deviceName = WBZ451, programmerType = NVMCTRL_U2409_PIC32CX_BZ2
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: MemInfo values:
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = ffffffff, exists = true, startAddr = 01000000, endAddr = 2001ffff, rowSize = 1000, rowEraseSize = 1000, addrInc = 0004, widthProgram = 0004
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = ffffffff, exists = true, startAddr = 00045e80, endAddr = 00045fbf, rowSize = 0001, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = true, startAddr = 00000000, endAddr = 00000000, rowSize = 1000, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 1000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = ffffffff, exists = true, startAddr = 03000000, endAddr = e0041fff, rowSize = 0000, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 7fffffff, exists = true, startAddr = 41000018, endAddr = 4100001b, rowSize = 0001, rowEraseSize = 0000, addrInc = 0001, widthProgram = 0001
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 CfgRequiredBitsMask Values:
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e80, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e84, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e88, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e8c, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e90, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e94, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e98, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e9c, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045eb0, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045eb4, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045eb8, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045ebc, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f80, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f84, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f88, Mask = 0000ffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f8c, Mask = bfffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f90, Mask = ffffffbf
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f94, Mask = 7fffffb8
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f98, Mask = 77ff03d7
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f9c, Mask = 80000002
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045fb0, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045fb4, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045fb8, Mask = ffffffff
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045fbc, Mask = 10000000
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 BasicInfo: Values:
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 BasicInfo: InputStream = com.microchip.mplab.libs.toolpacksupport.EquatableFileInputStream@cc65b5b3, ToolFlavor = PICKit4
+3214 1731565246232 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:init
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 none
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:GetInterfaceProvider
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 RI4DebugInterface
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:GetInterfaceProvider
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 com.microchip.mplab.libs.RI4ToolsController.implementations.RI4DebugInterfaceImpl@6fde7c9
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:GetInterfaceProvider
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 RI4ProgramInterface
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:GetInterfaceProvider
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 com.microchip.mplab.libs.RI4ToolsController.implementations.RI4ProgramInterfaceImpl@2ba7f2ef
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:GetInterfaceProvider
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 RI4ConnectInterface
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:GetInterfaceProvider
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 com.microchip.mplab.libs.PK4ToolsController.PK4ConnectInterfaceImpl@793bfea8
+3214 1731565246233 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+3214 1731565246233 GEN4_CONNECT_DIAGNOSTICS:acceptablePIDs = [810a, 8109, 810b]
+3214 1731565246233 GEN4_CONNECT_DIAGNOSTICS:otherPIDs = [2184]
+3214 1731565246234 GEN4_CONNECT_DIAGNOSTICS:Setting selected tool type to pk4
+3214 1731565246234 GEN4_CONNECT_DIAGNOSTICS:otherPIDs = [2184]
+3214 1731565246234 GEN4_CONNECT_DIAGNOSTICS:acceptablePIDs = [810a, 8109, 810b]
+
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:GetInterfaceProvider
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 RI4ControllerDiagnosticsInterface
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:GetInterfaceProvider
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 com.microchip.mplab.libs.RI4ToolsController.implementations.RI4ControllerDiagnosticsInterfaceImpl@2c176192
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:GetInterfaceProvider
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 ProgrammerToGo
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:GetInterfaceProvider
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 com.microchip.mplab.libs.RI4ToolsController.implementations.ProgrammerToGoImpl@453d0876
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:GetInterfaceProvider
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Status
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:GetInterfaceProvider
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 null
+3214 1731565246234 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+3214 1731565246246 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.ConnectionHandler.CheckForFWUpdates()
+3214 1731565246246 GEN4_CONNECT_DIAGNOSTICS:Created FirmwareUpdateHandler com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler@5119aab4
+3214 1731565246246 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.UpdateFirmware(FirmwareInfo, UpdateMessage)
+3214 1731565246246 GEN4_CONNECT_DIAGNOSTICS:areWeInBoot returned false
+3214 1731565246246 GEN4_CONNECT_DIAGNOSTICS:inBoot = false
+3214 1731565246246 GEN4_CONNECT_DIAGNOSTICS:uMode = checkingVersions
+3214 1731565246246 GEN4_CONNECT_DIAGNOSTICS:selectedTool = pk4
+3214 1731565246246 GEN4_CONNECT_DIAGNOSTICS:current toolType = pk4
+3214 1731565246246 GEN4_CONNECT_DIAGNOSTICS:current tool mode = pk4
+3214 1731565246246 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.GetUpdateInfo()
+3214 1731565246249 GEN4_CONNECT_DIAGNOSTICS:Parsing file  for firmware updates
+3214 1731565246249 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.ParseSelectedVersionsFromJamFile()
+3214 1731565246249 GEN4_CONNECT_DIAGNOSTICS:Jame file line = pkob4_boot.hex,010141
+3214 1731565246249 GEN4_CONNECT_DIAGNOSTICS:Jame file line = scripts.xml,000671
+3214 1731565246249 GEN4_CONNECT_DIAGNOSTICS:Jame file line = pkob4_app1 000710, 0040C000
+3214 1731565246249 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.ri4ParseSelectedVersionsFromJamFile()
+3214 1731565246249 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.GetUpdateInfo()
+3214 1731565246249 GEN4_CONNECT_DIAGNOSTICS:current toolType = pk4
+
+3214 1731565246249 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:EstablishCommunincations
+3214 1731565246249 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3214 1731565246249 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 com.microchip.mplab.mdbcore.PK4Tool.PK4Com@2c8da073
+3214 1731565246249 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3214 1731565246249 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:EstablishCommunincations
+3214 1731565246249 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+3214 1731565246249 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 true
+3214 1731565246249 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+
+3214 1731565246249 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:GetFirmwareInfo
+3214 1731565246249 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3214 1731565246249 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 null
+3214 1731565246249 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3214 1731565246257 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:GetFirmwareInfo
+3214 1731565246257 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+3214 1731565246257 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 FirmwareInfo: Values:
+3214 1731565246257 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 FirmwareInfo: boot = false, bootVer = 01.01.41, apVer = 00.07.10, fpgaVer = ff.ff.ff, scriptVer = 00.06.71, macAddress = 0505183765683815049485050484852, devID = a1020e01, devID1 = 1, devSN0 = ffffffff, devSN1 = ffffffff, serialNumber = RYN243203017, appCommitID = null, scriptCommitID = 74cdf38a4d, PCB_ID = 80000000
+3214 1731565246257 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+3214 1731565246271 GEN4_CONNECT_DIAGNOSTICS:appNeedsUpdate returned false
+3214 1731565246271 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.ConnectionHandler.CheckForFWUpdates()
+
+3214 1731565246271 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:EstablishCommunincations
+3214 1731565246271 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3214 1731565246271 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 com.microchip.mplab.mdbcore.PK4Tool.PK4Com@2c8da073
+3214 1731565246271 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3214 1731565246273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:EstablishCommunincations
+3214 1731565246273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+3214 1731565246273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 true
+3214 1731565246273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+
+3214 1731565246273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:GetFirmwareInfo
+3214 1731565246273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3214 1731565246273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 null
+3214 1731565246273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3214 1731565246281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:GetFirmwareInfo
+3214 1731565246281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+3214 1731565246281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 FirmwareInfo: Values:
+3214 1731565246281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 FirmwareInfo: boot = false, bootVer = 01.01.41, apVer = 00.07.10, fpgaVer = ff.ff.ff, scriptVer = 00.06.71, macAddress = 0505183765683815049485050484852, devID = a1020e01, devID1 = 1, devSN0 = ffffffff, devSN1 = ffffffff, serialNumber = RYN243203017, appCommitID = null, scriptCommitID = 74cdf38a4d, PCB_ID = 80000000
+3214 1731565246281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+
+3214 1731565246281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:GetFirmwareInfo
+3214 1731565246281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3214 1731565246281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 null
+3214 1731565246281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3214 1731565246289 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:GetFirmwareInfo
+3214 1731565246289 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+3214 1731565246289 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 FirmwareInfo: Values:
+3214 1731565246289 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 FirmwareInfo: boot = false, bootVer = 01.01.41, apVer = 00.07.10, fpgaVer = ff.ff.ff, scriptVer = 00.06.71, macAddress = 0505183765683815049485050484852, devID = a1020e01, devID1 = 1, devSN0 = ffffffff, devSN1 = ffffffff, serialNumber = RYN243203017, appCommitID = null, scriptCommitID = 74cdf38a4d, PCB_ID = 80000000
+3214 1731565246289 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+3214 1731565246289 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.ConnectionHandler.CheckForFWUpdates()
+3214 1731565246289 GEN4_CONNECT_DIAGNOSTICS:Created FirmwareUpdateHandler com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler@5119aab4
+3214 1731565246290 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.UpdateFirmware(FirmwareInfo, UpdateMessage)
+3214 1731565246290 GEN4_CONNECT_DIAGNOSTICS:areWeInBoot returned false
+3214 1731565246290 GEN4_CONNECT_DIAGNOSTICS:inBoot = false
+3214 1731565246290 GEN4_CONNECT_DIAGNOSTICS:uMode = done
+3214 1731565246290 GEN4_CONNECT_DIAGNOSTICS:selectedTool = pk4
+3214 1731565246290 GEN4_CONNECT_DIAGNOSTICS:current toolType = pk4
+3214 1731565246290 GEN4_CONNECT_DIAGNOSTICS:current tool mode = pk4
+3214 1731565246290 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.updatePk4HybridFirmware()
+3214 1731565246290 GEN4_CONNECT_DIAGNOSTICS:Don't upgrade fimware = false
+3214 1731565246290 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.updatePk4HybridFirmware()
+3214 1731565246290 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.UpdateFirmware(FirmwareInfo, UpdateMessage)
+3214 1731565246290 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.ConnectionHandler.CheckForFWUpdates()
+
+3214 1731565246290 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:SetPowerInfo
+3214 1731565246290 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3214 1731565246290 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 PowerInfo: Values:
+3214 1731565246290 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 PowerInfo: shotDownSystem = false, isToolPower = false, voltage = 3.300000, useVppFirst = false, useLowVoltageProgramming = true, useMaintainActivePower = false
+3214 1731565246290 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3214 1731565246291 XXXX 1731565246290, Thread 3214: XXXX 1731565246290, Entering Thread 3214: Commands::runScriptBasic with script contents. contents[0] = 0x39, ...  
+3214 1731565246293 XXXX 1731565246293, Thread 3214: XXXX 1731565246293, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246293 XXXX 1731565246293, Thread 3214: XXXX 1731565246293, Entering Thread 3214: Commands::runScriptBasic with script contents. contents[0] = 0x46, ...  
+3214 1731565246294 XXXX 1731565246294, Thread 3214: XXXX 1731565246294, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246294 XXXX 1731565246294, Thread 3214: XXXX 1731565246294, Entering Thread 3214: Commands::runScriptBasic with script contents. contents[0] = 0x44, ...  
+3214 1731565246295 XXXX 1731565246295, Thread 3214: XXXX 1731565246295, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246295 XXXX 1731565246295, Thread 3214: XXXX 1731565246295, Entering Thread 3214: Commands::runScriptBasic with script contents. contents[0] = 0xef, ...  
+3214 1731565246296 XXXX 1731565246296, Thread 3214: XXXX 1731565246296, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246296 XXXX 1731565246296, Thread 3214: XXXX 1731565246296, Entering Thread 3214: Commands::runScriptBasic with script contents. contents[0] = 0x40, ...  
+3214 1731565246297 XXXX 1731565246297, Thread 3214: XXXX 1731565246297, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246297 XXXX 1731565246297, Thread 3214: XXXX 1731565246297, Entering Thread 3214: Commands::runScriptBasic with script contents. contents[0] = 0x47, ...  
+3214 1731565246298 XXXX 1731565246298, Thread 3214: XXXX 1731565246298, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246298 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:SetPowerInfo
+3214 1731565246298 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+3214 1731565246298 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 none
+3214 1731565246298 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+
+3214 1731565246298 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:GetVoltageInfo
+3214 1731565246298 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3214 1731565246298 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 null
+3214 1731565246298 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3214 1731565246298 XXXX 1731565246298, Thread 3214: XXXX 1731565246298, Entering Thread 3214: Commands::runScriptBasic with script contents. contents[0] = 0x47, ...  
+3214 1731565246299 XXXX 1731565246299, Thread 3214: XXXX 1731565246299, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246299 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:GetVoltageInfo
+3214 1731565246299 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+3214 1731565246299 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 VoltagesInfo: Values:
+3214 1731565246299 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 VoltagesInfo: internalVdd = 3300, internalVpp = 3300, targetVdd = 3300, targetVpp = 3300, vddSense = 3300, temp = 25000, vddCurrentSense = 0, vddVoltageSense = 3300
+3214 1731565246299 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+
+3214 1731565246299 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:GetFirmwareInfo
+3214 1731565246299 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3214 1731565246299 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 null
+3214 1731565246299 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3214 1731565246306 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:GetFirmwareInfo
+3214 1731565246306 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+3214 1731565246306 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 FirmwareInfo: Values:
+3214 1731565246306 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 FirmwareInfo: boot = false, bootVer = 01.01.41, apVer = 00.07.10, fpgaVer = ff.ff.ff, scriptVer = 00.06.71, macAddress = 0505183765683815049485050484852, devID = a1020e01, devID1 = 1, devSN0 = ffffffff, devSN1 = ffffffff, serialNumber = RYN243203017, appCommitID = null, scriptCommitID = 74cdf38a4d, PCB_ID = 80000000
+3214 1731565246306 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+
+3214 1731565246306 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:SetToolInfo
+3214 1731565246306 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3214 1731565246306 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 ToolInfo: Values:
+3214 1731565246306 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 ToolInfo: speedLevel = 1, PGCResistance = 4700, PGDResistance = 4700, PGCPullDir = None, PGDPullDir = None, ICSPSelected = Wire2
+3214 1731565246306 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3214 1731565246306 XXXX 1731565246306, Thread 3214: XXXX 1731565246306, Entering Thread 3214: Commands::runScriptBasic with script contents. contents[0] = 0x27, ...  
+3214 1731565246308 XXXX 1731565246308, Thread 3214: XXXX 1731565246308, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246308 XXXX 1731565246308, Thread 3214: XXXX 1731565246308, Entering Thread 3214: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
+3214 1731565246309 XXXX 1731565246309, Thread 3214: XXXX 1731565246309, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246309 XXXX 1731565246309, Thread 3214: XXXX 1731565246309, Entering Thread 3214: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+3214 1731565246310 XXXX 1731565246310, Thread 3214: XXXX 1731565246310, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246310 XXXX 1731565246310, Thread 3214: XXXX 1731565246310, Entering Thread 3214: Commands::runScriptBasic with script contents. contents[0] = 0x3b, ...  
+3214 1731565246311 XXXX 1731565246311, Thread 3214: XXXX 1731565246311, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246311 XXXX 1731565246311, Thread 3214: XXXX 1731565246311, Entering Thread 3214: Commands::runScriptBasic with script contents. contents[0] = 0xd4, ...  
+3214 1731565246312 XXXX 1731565246312, Thread 3214: XXXX 1731565246312, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246312 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:SetToolInfo
+3214 1731565246312 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+3214 1731565246312 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 none
+3214 1731565246312 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+
+3214 1731565246314 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:GetTargetIDInfo
+3214 1731565246314 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3214 1731565246314 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 null
+3214 1731565246314 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3214 1731565246316 XXXX 1731565246316, Thread 3214: XXXX 1731565246316, Entering Thread 3214: Commands::runScriptBasic, script name = InitSWD, timeOut = -1 ms  
+3214 1731565246342 XXXX 1731565246342, Thread 3214: XXXX 1731565246342, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246342 XXXX 1731565246342, Thread 3214: XXXX 1731565246342, Entering Thread 3214: Commands::runScriptBasic, script name = GetDeviceID, timeOut = -1 ms  
+3214 1731565246343 XXXX 1731565246343, Thread 3214: XXXX 1731565246343, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246343 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:GetTargetIDInfo
+3214 1731565246343 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+3214 1731565246343 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 TargetIDInfo: Values:
+3214 1731565246343 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 TargetIDInfo: DeviceID = 0fbf9b8f
+3214 1731565246343 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+
+3214 1731565246351 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Pre:SendOperation
+3214 1731565246351 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload
+3214 1731565246351 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 OperationInfo: Values:
+3214 1731565246351 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 OperationInfo: Type = holdinreset, Mask = 00000000, Erase = false, Production Mode = true
+3214 1731565246351 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload End
+3214 1731565246351 XXXX 1731565246351, Thread 3214: XXXX 1731565246351, Entering Thread 3214: Commands::runScriptBasic, script name = UnInitSWD, timeOut = -1 ms  
+3214 1731565246353 XXXX 1731565246353, Thread 3214: XXXX 1731565246353, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246353 XXXX 1731565246353, Thread 3214: XXXX 1731565246353, Entering Thread 3214: Commands::runScriptBasic with script contents. contents[0] = 0xb1, ...  
+3214 1731565246354 XXXX 1731565246354, Thread 3214: XXXX 1731565246354, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246354 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Post:SendOperation
+3214 1731565246354 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return Value
+3214 1731565246354 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 None
+3214 1731565246354 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return End
+
+3214 1731565246374 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Pre:SendOperation
+3214 1731565246374 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload
+3214 1731565246374 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 OperationInfo: Values:
+3214 1731565246374 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 OperationInfo: Type = erase, Mask = 00000000, Erase = false, Production Mode = true
+3214 1731565246374 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 1000000, End = 10fffff, Buffer Length = 0, Type = Pgm, Mask = 00000000
+3214 1731565246374 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 4000000, End = 4ffffff, Buffer Length = 0, Type = Pgm, Mask = 00000000
+3214 1731565246374 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 45e80, End = 45fbf, Buffer Length = 0, Type = Cfg, Mask = 00000000
+3214 1731565246374 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 0, End = 5dff, Buffer Length = 0, Type = BootFlash, Mask = 00000000
+3214 1731565246374 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 20000000, End = 2001ffff, Buffer Length = 0, Type = FileRegs, Mask = 00000000
+3214 1731565246374 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload End
+3214 1731565246374 XXXX 1731565246374, Thread 3214: XXXX 1731565246374, Entering Thread 3214: Commands::runScriptBasic, script name = InitSWD, timeOut = -1 ms  
+3214 1731565246400 XXXX 1731565246400, Thread 3214: XXXX 1731565246400, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246400 XXXX 1731565246400, Thread 3214: XXXX 1731565246400, Entering Thread 3214: Commands::runScriptBasic, script name = EraseChip, timeOut = -1 ms  
+3214 1731565246440 XXXX 1731565246440, Thread 3214: XXXX 1731565246440, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565246440 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Post:SendOperation
+3214 1731565246440 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return Value
+3214 1731565246440 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 None
+3214 1731565246440 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return End
+
+3214 1731565246446 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Pre:SendOperation
+3214 1731565246446 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload
+3214 1731565246446 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 OperationInfo: Values:
+3214 1731565246446 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 OperationInfo: Type = write, Mask = 00000000, Erase = false, Production Mode = true
+3214 1731565246446 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 1004000, End = 1068fff, Buffer Length = 413696, Type = Pgm, Mask = 00000000
+3214 1731565246446 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 45e80, End = 45fbf, Buffer Length = 320, Type = Cfg, Mask = 00000000
+3214 1731565246446 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 TransferInfo: Start = 0, End = fff, Buffer Length = 4096, Type = BootFlash, Mask = 00000000
+3214 1731565246446 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload End
+3214 1731565246446 XXXX 1731565246446, Thread 3214: XXXX 1731565246446, Entering Thread 3214: Commands::runScriptWithDownload, script name = WriteProgmem  
+3214 1731565252037 XXXX 1731565252037, Thread 3214: XXXX 1731565252037, Exiting Thread 3214: Commands::runScriptWithDownload(WriteProgmem)  
+3214 1731565252037 XXXX 1731565252037, Thread 3214: XXXX 1731565252037, Entering Thread 3214: Commands::runScriptWithUpload, script name = ReadProgmem  
+3214 1731565252037 XXXX 1731565252037, Thread 3214: XXXX 1731565252037, Entering Thread 3214: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x65000 bytes long  
+3214 1731565255517 XXXX 1731565255517, Thread 3214: XXXX 1731565255517, Exiting Thread 3214: ToolCommUsb::readTransfer,  cr.status = 0x0  
+3214 1731565255517 XXXX 1731565255517, Thread 3214: XXXX 1731565255517, Exiting Thread 3214: Commands::runScriptWithUpload  
+3214 1731565255518 XXXX 1731565255518, Thread 3214: XXXX 1731565255518, Entering Thread 3214: Commands::runScriptBasic, script name = EraseConfigmem, timeOut = -1 ms  
+3214 1731565255526 XXXX 1731565255526, Thread 3214: XXXX 1731565255526, Exiting Thread 3214: Commands::runScriptBasic  
+3214 1731565255526 XXXX 1731565255526, Thread 3214: XXXX 1731565255526, Entering Thread 3214: Commands::runScriptWithDownload, script name = WriteConfigmem  
+3214 1731565255543 XXXX 1731565255543, Thread 3214: XXXX 1731565255543, Exiting Thread 3214: Commands::runScriptWithDownload(WriteConfigmem)  
+3214 1731565255543 XXXX 1731565255543, Thread 3214: XXXX 1731565255543, Entering Thread 3214: Commands::runScriptWithUpload, script name = ReadConfigmem  
+3214 1731565255543 XXXX 1731565255543, Thread 3214: XXXX 1731565255543, Entering Thread 3214: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x140 bytes long  
+3214 1731565255548 XXXX 1731565255548, Thread 3214: XXXX 1731565255548, Exiting Thread 3214: ToolCommUsb::readTransfer,  cr.status = 0x0  
+3214 1731565255548 XXXX 1731565255548, Thread 3214: XXXX 1731565255548, Exiting Thread 3214: Commands::runScriptWithUpload  
+3214 1731565255548 XXXX 1731565255548, Thread 3214: XXXX 1731565255548, Entering Thread 3214: Commands::runScriptWithDownload, script name = WriteBootMem  
+3214 1731565255605 XXXX 1731565255605, Thread 3214: XXXX 1731565255605, Exiting Thread 3214: Commands::runScriptWithDownload(WriteBootMem)  
+3214 1731565255605 XXXX 1731565255605, Thread 3214: XXXX 1731565255605, Entering Thread 3214: Commands::runScriptWithUpload, script name = ReadProgmem  
+3214 1731565255605 XXXX 1731565255605, Thread 3214: XXXX 1731565255605, Entering Thread 3214: ToolCommUsb::readTransfer, sideData is 0x24 bytes long, transferDataLength is 0x1000 bytes long  
+3214 1731565255641 XXXX 1731565255641, Thread 3214: XXXX 1731565255641, Exiting Thread 3214: ToolCommUsb::readTransfer,  cr.status = 0x0  
+3214 1731565255641 XXXX 1731565255641, Thread 3214: XXXX 1731565255641, Exiting Thread 3214: Commands::runScriptWithUpload  
+3214 1731565255641 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Post:SendOperation
+3214 1731565255641 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return Value
+3214 1731565255641 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 None
+3214 1731565255641 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return End
+
+3214 1731565255641 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Pre:endOfOperations
+3214 1731565255641 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload
+3214 1731565255641 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 null
+3214 1731565255641 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Payload End
+3214 1731565255641 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Post:endOfOperations
+3214 1731565255641 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return Value
+3214 1731565255641 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 None
+3214 1731565255641 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_WBZ451 Return End
+3214 1731565255643 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool is null
+
+3214 1731565255643 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:GetFirmwareInfo
+3214 1731565255643 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3214 1731565255643 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 null
+3214 1731565255643 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3214 1731565255652 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:GetFirmwareInfo
+3214 1731565255652 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+3214 1731565255652 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 FirmwareInfo: Values:
+3214 1731565255652 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 FirmwareInfo: boot = false, bootVer = 01.01.41, apVer = 00.07.10, fpgaVer = ff.ff.ff, scriptVer = 00.06.71, macAddress = 0505183765683815049485050484852, devID = a1020e01, devID1 = 1, devSN0 = ffffffff, devSN1 = ffffffff, serialNumber = RYN243203017, appCommitID = null, scriptCommitID = 74cdf38a4d, PCB_ID = 80000000
+3214 1731565255652 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+3214 1731565255652 GEN4_CONNECT_DIAGNOSTICS:Removing plug and play observer com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@7d75e774
+3214 1731565255652 GEN4_CONNECT_DIAGNOSTICS:Begin PlugNPlayObservers list dump:
+3214 1731565255652 GEN4_CONNECT_DIAGNOSTICS:End PlugNPlayObservers list dump:
+3214 1731565255702 GEN4_CONNECT_DIAGNOSTICS:Calling RIDbgToolCom.Disconnect
+3214 1731565255702 GEN4_CONNECT_DIAGNOSTICS:Calling MPLABCommTool.Detach to remove tool from plug and play list
+3214 1731565255702 GEN4_CONNECT_DIAGNOSTICS:Calling RIDbgToolCom.DisconnectFromMPlabComm
+3214 1731565255702 GEN4_CONNECT_DIAGNOSTICS:Calling MPLABCommTool.Disconnect
+3282 1731565457650 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool is NOT null
+3282 1731565457650 GEN4_CONNECT_DIAGNOSTICS:AttachedToolPID = 810b, AttachedToolVID = 4d8
+3282 1731565457650 GEN4_CONNECT_DIAGNOSTICS:transport type = USB
+3282 1731565457650 GEN4_CONNECT_DIAGNOSTICS:AttachedToolPID = 810b, AttachedToolVID = 4d8
+3282 1731565457657 com.microchip.mplab.mdbcore.RealICETool.RIDbgToolCom
+3282 1731565457657 GEN4_CONNECT_DIAGNOSTICS:Before MPLABCommTool.Connect()
+3282 1731565457657 GEN4_CONNECT_DIAGNOSTICS:After MPLABCommTool.Connect()
+3282 1731565457657 GEN4_CONNECT_DIAGNOSTICS:Adding new plug and play observer com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@548436a8
+3282 1731565457657 GEN4_CONNECT_DIAGNOSTICS:Begin PlugNPlayObservers list dump:
+3282 1731565457657 GEN4_CONNECT_DIAGNOSTICS:com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@548436a8
+3282 1731565457657 GEN4_CONNECT_DIAGNOSTICS:End PlugNPlayObservers list dump:
+3282 1731565457659 GEN4_CONNECT_DIAGNOSTICS:Registering for alternate PNP notifications. CommPnPCriteria.cPIDList = [810A, 8109, 2184], CommPnPCriteria.cSerialNumber = ryn241902742
+
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:init
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: Values:
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: pcAddress = 7fffffffffffffff, Vpp = 3.30, useRowEraseIfVoltageIsLow = false, voltageBelowWhichUseRowErase = 0.00, deviceName = WBZ451, programmerType = NVMCTRL_U2409_PIC32CX_BZ2
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: MemInfo values:
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = ffffffff, exists = true, startAddr = 01000000, endAddr = 2001ffff, rowSize = 1000, rowEraseSize = 1000, addrInc = 0004, widthProgram = 0004
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = ffffffff, exists = true, startAddr = 00045e80, endAddr = 00045fbf, rowSize = 0001, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = true, startAddr = 00000000, endAddr = 00000000, rowSize = 1000, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 1000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = ffffffff, exists = true, startAddr = 03000000, endAddr = e0041fff, rowSize = 0000, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 7fffffff, exists = true, startAddr = 41000018, endAddr = 4100001b, rowSize = 0001, rowEraseSize = 0000, addrInc = 0001, widthProgram = 0001
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 CfgRequiredBitsMask Values:
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e80, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e84, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e88, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e8c, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e90, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e94, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e98, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045e9c, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045eb0, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045eb4, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045eb8, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045ebc, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f80, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f84, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f88, Mask = 0000ffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f8c, Mask = bfffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f90, Mask = ffffffbf
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f94, Mask = 7fffffb8
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f98, Mask = 77ff03d7
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045f9c, Mask = 80000002
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045fb0, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045fb4, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045fb8, Mask = ffffffff
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Address = 00045fbc, Mask = 10000000
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 BasicInfo: Values:
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 BasicInfo: InputStream = com.microchip.mplab.libs.toolpacksupport.EquatableFileInputStream@cc65b5b3, ToolFlavor = PICKit4
+3282 1731565457728 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3282 1731565457729 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:init
+3282 1731565457729 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3282 1731565457729 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 none
+3282 1731565457729 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+
+3282 1731565457729 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:GetInterfaceProvider
+3282 1731565457729 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3282 1731565457729 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 RI4DebugInterface
+3282 1731565457729 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3282 1731565457729 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:GetInterfaceProvider
+3282 1731565457729 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3282 1731565457729 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 com.microchip.mplab.libs.RI4ToolsController.implementations.RI4DebugInterfaceImpl@4d553ce2
+3282 1731565457729 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+
+3282 1731565457731 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:GetInterfaceProvider
+3282 1731565457731 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3282 1731565457731 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 RI4ProgramInterface
+3282 1731565457731 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3282 1731565457731 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:GetInterfaceProvider
+3282 1731565457731 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3282 1731565457731 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 com.microchip.mplab.libs.RI4ToolsController.implementations.RI4ProgramInterfaceImpl@38117296
+3282 1731565457731 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+
+3282 1731565457732 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:GetInterfaceProvider
+3282 1731565457732 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3282 1731565457732 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 RI4ConnectInterface
+3282 1731565457732 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3282 1731565457732 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:GetInterfaceProvider
+3282 1731565457732 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3282 1731565457732 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 com.microchip.mplab.libs.PK4ToolsController.PK4ConnectInterfaceImpl@443fe291
+3282 1731565457732 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+3282 1731565457732 GEN4_CONNECT_DIAGNOSTICS:acceptablePIDs = [810a, 8109, 810b]
+3282 1731565457732 GEN4_CONNECT_DIAGNOSTICS:otherPIDs = [2184]
+3282 1731565457732 GEN4_CONNECT_DIAGNOSTICS:Setting selected tool type to pk4
+3282 1731565457732 GEN4_CONNECT_DIAGNOSTICS:otherPIDs = [2184]
+3282 1731565457732 GEN4_CONNECT_DIAGNOSTICS:acceptablePIDs = [810a, 8109, 810b]
+
+3282 1731565457732 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:selectCore
+3282 1731565457732 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3282 1731565457732 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 WBZ451
+3282 1731565457732 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:selectCore
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 none
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:GetInterfaceProvider
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 RI4ControllerDiagnosticsInterface
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:GetInterfaceProvider
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 com.microchip.mplab.libs.RI4ToolsController.implementations.RI4ControllerDiagnosticsInterfaceImpl@146f2b1e
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:GetInterfaceProvider
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 ProgrammerToGo
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:GetInterfaceProvider
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 com.microchip.mplab.libs.RI4ToolsController.implementations.ProgrammerToGoImpl@7039a75d
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Pre:GetInterfaceProvider
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Status
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Payload End
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Post:GetInterfaceProvider
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return Value
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 null
+3282 1731565457733 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_WBZ451 Return End
+3282 1731565457745 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.ConnectionHandler.CheckForFWUpdates()
+3282 1731565457745 GEN4_CONNECT_DIAGNOSTICS:Created FirmwareUpdateHandler com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler@430fee0e
+3282 1731565457745 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.UpdateFirmware(FirmwareInfo, UpdateMessage)
+3282 1731565457745 GEN4_CONNECT_DIAGNOSTICS:areWeInBoot returned false
+3282 1731565457745 GEN4_CONNECT_DIAGNOSTICS:inBoot = false
+3282 1731565457745 GEN4_CONNECT_DIAGNOSTICS:uMode = checkingVersions
+3282 1731565457745 GEN4_CONNECT_DIAGNOSTICS:selectedTool = pk4
+3282 1731565457745 GEN4_CONNECT_DIAGNOSTICS:current toolType = pk4
+3282 1731565457745 GEN4_CONNECT_DIAGNOSTICS:current tool mode = pk4
+3282 1731565457745 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.GetUpdateInfo()
+3282 1731565457746 GEN4_CONNECT_DIAGNOSTICS:Parsing file  for firmware updates
+3282 1731565457746 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.ParseSelectedVersionsFromJamFile()
+3282 1731565457746 GEN4_CONNECT_DIAGNOSTICS:Jame file line = pkob4_boot.hex,010141
+3282 1731565457746 GEN4_CONNECT_DIAGNOSTICS:Jame file line = scripts.xml,000671
+3282 1731565457746 GEN4_CONNECT_DIAGNOSTICS:Jame file line = pkob4_app1 000710, 0040C000
+3282 1731565457746 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.ri4ParseSelectedVersionsFromJamFile()
+3282 1731565457746 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.pk4hybrid.pk4hybridFirmwareUpdateHandler.GetUpdateInfo()
+3282 1731565457746 GEN4_CONNECT_DIAGNOSTICS:current toolType = pk4
+
+3282 1731565457746 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:EstablishCommunincations
+3282 1731565457746 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3282 1731565457746 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 com.microchip.mplab.mdbcore.PK4Tool.PK4Com@2fac5fc5
+3282 1731565457746 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3282 1731565457747 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Post:EstablishCommunincations
+3282 1731565457747 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return Value
+3282 1731565457747 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 true
+3282 1731565457747 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Return End
+
+3282 1731565457747 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Pre:GetFirmwareInfo
+3282 1731565457747 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload
+3282 1731565457747 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 null
+3282 1731565457747 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_WBZ451 Payload End
+3282 1731565457749 XXXX 1731565457749, Thread 3282: com.Send returned false 
+3282 1731565457749 XXXX 1731565457749, Thread 3282: execCommand: exception after writeSideChanel null 
