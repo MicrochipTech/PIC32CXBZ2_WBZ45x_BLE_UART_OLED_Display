@@ -207,9 +207,7 @@ GFX_DISP_INTF_PIN_EN
 
 ![](docs/pinsetting.png)
 
-**Step 16** - [Generate](https://onlinedocs.microchip.com/pr/GUID-A5330D3A-9F51-4A26-B71D-8503A493DF9C-en-US-1/index.html?GUID-9C28F407-4879-4174-9963-2CF34161398E) the code.
-
-**Step 17** - From the unzipped folder copy the folder click_routines(which contains the oled_c.h & oled_c.c) to the folder firmware/src under your MPLAB Harmony v3 application project and add the Header (oled_c.h) and Source file (oled_c.c).
+**Step 16** - From the unzipped folder copy the folder click_routines(which contains the oled_c.h & oled_c.c) to the folder firmware/src under your MPLAB Harmony v3 application project and add the Header (oled_c.h) and Source file (oled_c.c).
 
 - In the project explorer, Right click on folder Header Files and add a sub folder click_routines by selecting “Add Existing Items from Folders…”
 
@@ -253,7 +251,7 @@ GFX_DISP_INTF_PIN_EN
 
 - The click_routines folder contain an C source file oled_c.c. You could use oled_c.c as a reference to add OLED C display functionality to your application.
 
-**Step 18** - Design Graphics on Legato Graphics Composer.
+**Step 17** - Design Graphics on Legato Graphics Composer.
 
 | Tip: Refer the link for [MPLAB® Harmony 3 Graphics Support Package](https://github.com/Microchip-MPLAB-Harmony/gfx)!! |
 | --- |
@@ -279,6 +277,8 @@ GFX_DISP_INTF_PIN_EN
 - The Legato Graphics Composer for the "WBZ451_OLED_BLE_UART_LEGATO.zip" OLED Application is shown below.
 
 ![](docs/legato_composer.png)
+
+**Step 18** - [Generate](https://onlinedocs.microchip.com/pr/GUID-A5330D3A-9F51-4A26-B71D-8503A493DF9C-en-US-1/index.html?GUID-9C28F407-4879-4174-9963-2CF34161398E) the code.
 
 **Step 19** - Change the following Code as givien below.
 
@@ -362,7 +362,7 @@ GFX_DISP_INTF_PIN_EN
 
 - In your MPLAB Harmony v3 based application go to "firmware\src\app.h" and do the following changes.
 
-	- Add the line "APP_MSG_DISPLAY_EVT" & "APP_MSG_OLEDC_EVT" as shown below.
+	- Add the line "APP_STATE_LCD_INIT" in APP_STATES and "APP_MSG_DISPLAY_EVT" & "APP_MSG_OLEDC_EVT" as shown below.
 	
 ```
 APP_MSG_BLE_DISPLAY_EVT,
